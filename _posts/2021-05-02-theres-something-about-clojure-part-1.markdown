@@ -2,7 +2,8 @@
 layout: post
 title:  "There's something about Clojure (part 1)"
 date:   2021-05-02 22:34:00 +0100
-categories: clojure programming 
+category: clojure
+tags: clojure programming languages
 ---
 
 *This is not an introduction to Clojure, there's [plenty](http://clojure-doc.org/articles/tutorials/introduction.html) of [excellent](https://www.braveclojure.com/) [ones](https://www.clojure.org/guides/getting_started) already. These are my reflections on why I felt in love with Clojure, although it took some time to build that relation, as a reminder for my future self, should it become frustrated by it at some point.*

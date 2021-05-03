@@ -2,7 +2,8 @@
 layout: post
 title:  "How to setup different SSH keys for multiple hosts"
 date:   2021-04-29 11:39:00 +0100
-categories: programming 
+category: howto
+tags: ssh macos git linux security
 ---
 
 I often use different laptops to write code for projects hosted on either GitHub, GitLab, or
