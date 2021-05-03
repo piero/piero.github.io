@@ -4,4 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Where is my mind?
+*I watch the watcher*
+
+
+*A mirror looking at me*
+
+
+*Changing yet timeless*

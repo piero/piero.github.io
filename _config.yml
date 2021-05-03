@@ -21,7 +21,7 @@
 title: To my future self
 # email: pierodactylus@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Random notes for my future self
+    Random notes for my future self, whoever that is.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pierodactylus

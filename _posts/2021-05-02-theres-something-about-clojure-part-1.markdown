@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "There's something about Clojure"
+title:  "There's something about Clojure (part 1)"
 date:   2021-05-02 22:34:00 +0100
 categories: clojure programming 
 ---
@@ -77,7 +77,7 @@ After calling `SquareArrayMut` the array `a` has changed, its original values ar
 
 (def squared-a (square a))  ;; squared-a = (0 1 4 9 16)
 
-a  ;; prints (0 1 2 3 4)
+(println a)  ;; prints (0 1 2 3 4)
 ```
 
 Nothing unexpected. Honest. Beautiful.
@@ -118,7 +118,7 @@ One line. No assignments. Simple. Elegant. Beautiful.
 Here [`map`](https://clojuredocs.org/clojure.core/map) simply applies the function `(fn [i] (* i i))` to the items of `input`, which is assumed to be a [collection](http://clojure-doc.org/articles/language/collections_and_sequences.html), and returns a collection with the result. The multiplication is writted in Polish notation simply because `*` is not an operator, but a function (so consistent!). The arguments of a function are wrapped in square brackets because they form a `vector`: this also happens in other languages (e.g. `argv` in C/C++, or `$@` in bash) but in Lisp/Clojure it's explicit. Because... [Code is Data, Data is Code](https://en.wikipedia.org/wiki/Homoiconicity). Oh beauty, oh perfection!
 
 
-## Next time
+## Next time...
 
 I remember the first person who showed Clojure to me saying enthusiastically how it was "such an expressive language".
-I didn't understand what he meant by that, but now I know...
+back then, I didn't really understand what he meant by that.
