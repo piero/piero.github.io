@@ -71,14 +71,14 @@ Here is my Clojure implementation:
   [points]
   (loop [points-left points
          successes 0]
-      (if (pos? points-left)
+      (if (zero? points-left)
+        successes
         (let [[x y] (generate-random-point)]
 
           (recur (dec points-left)
                  (if (< (+ (* x x) (* y y)) 1)
                    (inc successes)
-                   successes)))
-        successes)))
+                   successes))))))
 
 (defn -main
   [& args]
