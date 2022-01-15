@@ -6,7 +6,7 @@ category: redis
 tags: redis programming shell
 ---
 
-To convert sensor readings in a Redis Streams into CSV.
+Here's a way convert IoT sensor readings in a Redis Streams into CSV, using the `paste` command.
 
 First, let's define some handy variables:
 
@@ -71,7 +71,7 @@ latency-seconds
 57
 ```
 
-We can remove the first line (it's the Redis Streams timestamp) and then will join every second row
+We can remove the first line (it's the Redis Streams timestamp) and then will join every other row
 to the preceding one, in a key-value pair fashion:
 
 ```sh
