@@ -6,17 +6,17 @@ category: clojure
 tags: clojure programming languages
 ---
 
-*This is not an introduction to Clojure, there's [plenty](http://clojure-doc.org/articles/tutorials/introduction.html) of [excellent](https://www.braveclojure.com/) [ones](https://www.clojure.org/guides/getting_started) already. These are my reflections on why I felt in love with Clojure, although it took some time to build that relation, as a reminder for my future self, should it become frustrated by it at some point.*
+*This is not an introduction to Clojure, there's [plenty](http://clojure-doc.org/articles/tutorials/introduction.html) of [excellent](https://www.braveclojure.com/) [ones](https://www.clojure.org/guides/getting_started) already. These are my reflections on why I felt in love with Clojure, although it took some time to build that relation, as a reminder for my future no-self, should it become frustrated by it at some point.*
 
 
-## Dear future self...
+## Dear future no-self...
 
-...it was only about six years ago that I came across Clojure. At that time I had over 15 years of C++ and embedded Linux systems under my belt, together with a common mix of other languages such as Java, Python, and Go. Although I've had a very brief encounter with Scala, I considered functional programming some exot(er)ic field, certainly not something for professional use. How wrong I was! Yet I didn't know it when I first saw Clojure, just a snippet of code in the company I was working for at that time. I remember the sensation of being almost blind, of not being able to make sense of that weird syntax. I certainly couldn't see myself writing that stuff for a living, and yet life can be so ironic.
+...it was only about six years ago that I came across Clojure. At that time I had over 15 years of C++ and embedded Linux systems under my belt, together with a common mix of other languages such as Java, Python, and Go. Although I've had a very brief encounter with Scala, I considered functional programming some exot(er)ic field, certainly not something for professional use. How wrong I was! Yet I didn't know it when I first saw Clojure, just a snippet of code in the company I was working for at that time. I remember the sensation of being almost blind, of not being able to make sense of that weird syntax. I certainly couldn't see my(no-)self writing that stuff for a living, and yet life can be so ironic.
 
 
 ## Parentheses
 
-Clojure is a dialect of Lisp, which is famous for its [parentheses](https://xkcd.com/297/). I didn't know that When I first saw it, so I just thought it was one of those write-once/read-never academic languages. And again, how wrong I was! Let me explain things here as a reminder to you, my future self, because [I have now seen the light](https://xkcd.com/224/).
+Clojure is a dialect of Lisp, which is famous for its [parentheses](https://xkcd.com/297/). I didn't know that When I first saw it, so I just thought it was one of those write-once/read-never academic languages. And again, how wrong I was! Let me explain things here as a reminder to you, my future no-self, because [I have now seen the light](https://xkcd.com/224/).
 
 Here's a "traditional" function invocation:
 
