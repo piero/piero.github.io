@@ -61,7 +61,7 @@ Bob thinks for a while, then simply replies "I don't know".
 Bob, the super-opinionated fixer of the world's problems, doesn't know.
 
 A couple of days later, the CTO tells me that Bob has decided to leave.
-He joined the team three months ago.
+Bob joined the team three months ago.
 
 A thought surfaces in my mind: __"Don't be a jerk"__.
 That's an advice from the book _That's Not How Much They Pay. That's How Much They Pay You_.
@@ -69,7 +69,7 @@ A powerful, pragmatical advice.
 
 Bob has been a jerk.
 
-He was given trust, yet he betrayed it by criticising the team's efforts to try his advices.
+He was given trust, yet he betrayed it by criticising the team's efforts to try out his advices.
 He was given freedom, yet he used it to spread negativity in the team.
 He was listened to, yet he assumed that he always knows better.
 
