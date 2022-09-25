@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "On the Right to Focus"
-date:   2022-09-25 10:00:00 +0100
+date:   2022-09-25 09:00:00 +0100
 category: stories
 tags: thoughts
 ---
