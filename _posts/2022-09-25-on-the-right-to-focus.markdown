@@ -8,7 +8,9 @@ tags: thoughts
 
 This article made me realise one of the reasons I like working remotely so much: Focus.
 
-https://www.mtajchert.com/libraries-and-open-spaces/
+<a href="https://www.mtajchert.com/libraries-and-open-spaces/" target="_blank">
+    https://www.mtajchert.com/libraries-and-open-spaces/
+</a>
 
 My previous offices had areas (cells?) for focused work: focus was the exception rather than the 
 norm, I remember having to drag myself to those places and put on a do-not-mess-with-me face.
